@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UobF1Wb9fP9vASb+Xm7qNH4Sk+L0QbCpeapJSf4jBuVcOm4VycvA4nhJ9j0Yzc4OOYNzzc/ahIVqJfwtLfOCRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\New folder\\New folder\\Library-Management-System-WPF-master\\Library-Management-System-WPF-master\\WPF Project\\LibraryMSWF.Entity\\LibraryMSWF.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

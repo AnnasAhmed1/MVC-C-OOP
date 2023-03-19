@@ -1,0 +1,60 @@
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.exe.config
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csprojResolveAssemblyReference.cache
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\MainWindow.g.cs
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\App.g.cs
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System_MarkupCompile.cache
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System_MarkupCompile.lref
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.exe
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.pdb
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\MainWindow.baml
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.g.resources
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf_Building_Maintenance_System.Properties.Resources.resources
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csproj.GenerateResource.Cache
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.exe
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.pdb
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Register Window.g.cs
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Register Window.baml
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Super User Dashboard.g.cs
+E:\All Visual Studio Files\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Super User Dashboard.baml
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.exe.config
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.exe
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.pdb
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csprojAssemblyReference.cache
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\MainWindow.g.cs
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Register Window.g.cs
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Super User Dashboard.g.cs
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\App.g.cs
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System_MarkupCompile.cache
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System_MarkupCompile.lref
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\MainWindow.baml
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Register Window.baml
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Super User Dashboard.baml
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.g.resources
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf_Building_Maintenance_System.Properties.Resources.resources
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csproj.GenerateResource.cache
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csproj.CoreCompileInputs.cache
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.exe
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.pdb
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Simple User dashboard.g.cs
+E:\Downloads\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Simple User dashboard.baml
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.exe.config
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.exe
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\bin\Debug\Wpf Building Maintenance System.pdb
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Register Window.g.cs
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Simple User Dashboard.g.cs
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Super User Dashboard.g.cs
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System_MarkupCompile.cache
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System_MarkupCompile.lref
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Register Window.baml
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Simple User Dashboard.baml
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Super User Dashboard.baml
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.g.resources
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf_Building_Maintenance_System.Properties.Resources.resources
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.exe
+C:\Users\hp\Desktop\Wpf Building Maintenance System\Wpf Building Maintenance System\Wpf Building Maintenance System\obj\Debug\Wpf Building Maintenance System.pdb
